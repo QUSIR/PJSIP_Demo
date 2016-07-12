@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimplePjsua</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_test_text">init</string>
+    <string name="button_call_text">call</string>
+    <string name="textView_status_text">status</string>
+    
+</resources>
